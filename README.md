@@ -17,7 +17,7 @@
 <ul>
   <li>🌱 Currently Working on <b>Applied AI</b></li>
   <li>👨‍💻 Portfolio: <a href="https://adityachaudhari.com/">adityachaudhari.com</a></li>
-  <li>💬 Ask me about <b>Neurology, Astronomy, Quantum Computing</b></li>
+  <li>💬 Ask me about <b>Neurology, Quantum Computing</b></li>
   <li>📫 Reach me at <b>hello@adityachaudhari.com</b></li>
 </ul>
 
